@@ -3,12 +3,9 @@ package com.vijay.module2.tdd;
 import static junit.framework.TestCase.fail;
 import static org.hamcrest.CoreMatchers.containsString;
 import static org.hamcrest.CoreMatchers.is;
-import static org.junit.Assert.assertThat;
+import static org.hamcrest.MatcherAssert.assertThat;
 
-import org.hamcrest.CoreMatchers;
 import org.junit.Test;
-
-import com.vijay.module2.tdd.FibonacciSequence;
 
 public class FibonacciSequenceTest {
 

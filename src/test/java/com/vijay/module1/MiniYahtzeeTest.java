@@ -1,11 +1,9 @@
 package com.vijay.module1;
 
-import org.junit.Test;
-
-import com.vijay.module1.DiceScores;
-
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
+
+import org.junit.Test;
 
 public class MiniYahtzeeTest {
 
